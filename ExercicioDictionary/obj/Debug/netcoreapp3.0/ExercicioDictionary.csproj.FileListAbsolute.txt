@@ -1,0 +1,11 @@
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\ExercicioDictionary\ExercicioDictionary\bin\Debug\netcoreapp3.0\ExercicioDictionary.exe
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\ExercicioDictionary\ExercicioDictionary\bin\Debug\netcoreapp3.0\ExercicioDictionary.deps.json
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\ExercicioDictionary\ExercicioDictionary\bin\Debug\netcoreapp3.0\ExercicioDictionary.runtimeconfig.json
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\ExercicioDictionary\ExercicioDictionary\bin\Debug\netcoreapp3.0\ExercicioDictionary.runtimeconfig.dev.json
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\ExercicioDictionary\ExercicioDictionary\bin\Debug\netcoreapp3.0\ExercicioDictionary.dll
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\ExercicioDictionary\ExercicioDictionary\bin\Debug\netcoreapp3.0\ExercicioDictionary.pdb
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\ExercicioDictionary\ExercicioDictionary\obj\Debug\netcoreapp3.0\ExercicioDictionary.csprojAssemblyReference.cache
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\ExercicioDictionary\ExercicioDictionary\obj\Debug\netcoreapp3.0\ExercicioDictionary.AssemblyInfoInputs.cache
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\ExercicioDictionary\ExercicioDictionary\obj\Debug\netcoreapp3.0\ExercicioDictionary.AssemblyInfo.cs
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\ExercicioDictionary\ExercicioDictionary\obj\Debug\netcoreapp3.0\ExercicioDictionary.dll
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\12- Generics, Set e dictionary\ExercicioDictionary\ExercicioDictionary\obj\Debug\netcoreapp3.0\ExercicioDictionary.pdb
